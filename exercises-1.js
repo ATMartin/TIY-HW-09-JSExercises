@@ -9,10 +9,10 @@
 function max(n1, n2){
     "use strict";
     if (n1 > n2) {
-			return n1; 
+			return n1;
 		}
-		else { 
-			return n2; 
+		else {
+			return n2;
 		}
 }
 
@@ -115,4 +115,3 @@ function charFreq(string){
 		});
 		return retval;
 }
-
